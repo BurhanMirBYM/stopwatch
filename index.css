@@ -1,0 +1,25 @@
+body {
+    background: yellow;
+  
+    }
+    .clock{
+        text-align: center;
+        font-size:xx-large;
+    }
+    button{
+        font-size:1.2em;
+padding:18px 10px;
+width:180px;
+margin: 10px;
+ outline: none;
+ background-color: transparent;
+ cursor: pointer;
+ 
+ 
+    }
+    button:hover{
+         transition :1.5s;
+	background:white;
+	border: solid 1px white;
+	color:base-color;
+    }
